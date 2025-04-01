@@ -21,7 +21,7 @@ This repository contains code for training and evaluating machine learning model
 
 1️⃣ Clone the repository:  
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ItachiUchiha08/Machine-Learning-without-scikit-learn.git)
 cd machine-learning-project
 ```
 
